@@ -1,0 +1,30 @@
+_repo: Gods-of-the-North_42664
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42664-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Howard, Robert E. (Robert Ervin)
+    alias: Howard, Robert Ervin
+    birthdate: 1906
+    deathdate: 1936
+    gutenberg_agent_id: '36031'
+    url: http://www.gutenberg.org/2009/agents/36031
+    wikipedia: http://en.wikipedia.org/wiki/Robert_E._Howard
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2013-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, American'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: Gods of the North
+url: http://www.gutenberg.org/ebooks/42664
